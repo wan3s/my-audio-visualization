@@ -1,4 +1,4 @@
-module github.com/iburimskiy/ai-game
+module github.com/iburimskiy/audio-visualization
 
 go 1.24.2
 

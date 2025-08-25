@@ -37,7 +37,6 @@ A sophisticated Go desktop app that plays audio files with dynamic, complex visu
 
 ### Run
 ```bash
-cd /Users/iburimskiy/Projects/go/ai-game
 go run .
 ```
 
